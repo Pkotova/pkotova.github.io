@@ -68,6 +68,7 @@ export default function() {
       }, defaultProps)
   );
 
+
   /* Contact Section */
   ScrollReveal().reveal('.contact-wrapper', 
     assignProps(
