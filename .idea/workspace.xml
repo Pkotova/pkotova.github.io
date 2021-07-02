@@ -2,63 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eea7f6b-90d4-42e3-adcc-aa6cbbea949d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pfolio.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/example.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/example.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/13733.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/Originals/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/Originals/clear-blue-sky.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/auth.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/clear-blue-sky.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/dragons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/favicon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/got.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/graph+icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/iml.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/mg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/petya.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/photothumb.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/profile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/project.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/softuni.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/sql.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/stuni.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/your.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/—Pngtree—high-tech brain_5406718.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/assignProps.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/sr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/tilt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/abstracts/_helpers.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/abstracts/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/abstracts/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/base/_base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/base/_typography.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/components/_buttons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/layout/_footer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/layout/_sections.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/sections/_about.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/sections/_contact.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/sections/_hero.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/sections/_projects.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/sections/skills.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/vendors/_bootstrap.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/template.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vendor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.dev.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +51,7 @@
       <updated>1625173879116</updated>
       <workItem from="1625173880720" duration="1862000" />
       <workItem from="1625175778908" duration="43000" />
-      <workItem from="1625175823731" duration="5982000" />
+      <workItem from="1625175823731" duration="7943000" />
     </task>
     <servers />
   </component>
