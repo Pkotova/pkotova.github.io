@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7eea7f6b-90d4-42e3-adcc-aa6cbbea949d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/iml-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/projects/mlp-works.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/projects/mlp-works.PNG" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +56,8 @@
       <updated>1625173879116</updated>
       <workItem from="1625173880720" duration="1862000" />
       <workItem from="1625175778908" duration="43000" />
-      <workItem from="1625175823731" duration="17379000" />
+      <workItem from="1625175823731" duration="18136000" />
+      <workItem from="1625246529931" duration="31000" />
     </task>
     <servers />
   </component>
@@ -76,5 +74,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
